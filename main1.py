@@ -1,20 +1,12 @@
-
+import pywhatkit
+import datetime
+import cgi
 def button():
 
-    print "Content-type: text/html＼n＼n";
-
-    import pywhatkit
-    import datetime
-    import cgi
     
 
     form = cgi.FieldStorage()
     name = form.getvalue("Inserte su nombre")
-
-
-
-
-
 
 
     now = datetime.datetime.now()
