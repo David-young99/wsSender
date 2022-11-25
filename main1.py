@@ -14,7 +14,7 @@ def button_main():
         min_mod = min + 1
         sec = now.second
 
-        msg = "Hola" + str(hour_mod) + "h : " + str(min) + "min : " + str(sec) + "sec Hora de Costa Rica"
+        msg ="Alerta generada automáticamente por " "David Young " + "david@email.com " + "Alerta por inundación" + "En los sectores de Turrialba centro " + str(hour_mod) + "h : " + str(min) + "min : " + str(sec) + "sec Hora de Costa Rica"
 
         #str(name) + str(emaill) + str(disaster) + str(message)
 
@@ -28,9 +28,7 @@ def button_main():
 
     except:
         print("Intentando nuevamente...")
-        button_main
-        
-
+        button_main()
     
 
 st.title("Complete la información sobre la alerta que desea enviar")
