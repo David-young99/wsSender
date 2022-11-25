@@ -2,6 +2,7 @@ import pywhatkit
 import datetime
 import pytz
 
+
 def button_main():
         now = datetime.datetime.now()
         now_cr = datetime.datetime.now(pytz.timezone("America/Costa_Rica"))
@@ -22,9 +23,11 @@ def button_main():
         alert = "Alerta por inundacion"
         details = "En los sectores de Turrialba centro"
 
-        msg = "Alerta enviada automáticamente por el usuario: " + user + " de email: " + email + " ,Tipo de alerta: " + alert + " ,mas detalles " + details + " . Alerta generada a las " + str(hour_cr) + "h : " + str(min_cr) + "min : " + str(sec_cr) + "sec Hora de Costa Rica"
+        
 
-        #str(name) + str(emaill) + str(disaster) + str(message)
+        msg = "Alerta enviada automaticamente por el usuario: " + user + " email: " + email + " ,Tipo de alerta: " + alert + " ,mas detalles " + details + " . Alerta generada a las " + str(hour_cr) + "h : " + str(min_cr) + "min : " + str(sec_cr) + "sec Hora de Costa Rica"
+
+      
 
         pywhatkit.sendwhatmsg_to_group(
                 "KShmZDAcfxFCdDbEjCIgs1",

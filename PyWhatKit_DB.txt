@@ -148,3 +148,23 @@ Time: 1:55
 Group ID: KShmZDAcfxFCdDbEjCIgs1
 Message: Alerta enviada automáticamente por el usuario: David Young de email: david@email.com ,Tipo de alerta: Alerta por inundacion ,mas detalles En los sectores de Turrialba centro . Alerta generada a las19h : 55min : 2sec Hora de Costa Rica
 --------------------
+Date: 25/11/2022
+Time: 5:43
+Group ID: KShmZDAcfxFCdDbEjCIgs1
+Message: Alerta enviada automáticamente por el usuario: David Young de email: david@email.com ,Tipo de alerta: Alerta por inundacion ,mas detalles En los sectores de Turrialba centro . Alerta generada a las 23h : 43min : 20sec Hora de Costa Rica
+--------------------
+Date: 25/11/2022
+Time: 5:53
+Group ID: KShmZDAcfxFCdDbEjCIgs1
+Message: Dear%20Student%2C%0APlease%20send%20your%20report%0AThank%20you%20for%20your%20attention
+--------------------
+Date: 25/11/2022
+Time: 6:2
+Group ID: KShmZDAcfxFCdDbEjCIgs1
+Message: Alerta enviada automaticamente por el usuario: David Young email: david@email.com ,Tipo de alerta: Alerta por inundacion ,mas detalles En los sectores de Turrialba centro . Alerta generada a las 0h : 2min : 11sec Hora de Costa Rica
+--------------------
+Date: 25/11/2022
+Time: 6:7
+Group ID: KShmZDAcfxFCdDbEjCIgs1
+Message: Alerta generada automáticamente por David Young david@email.com Alerta por inundaciónEn los sectores de Turrialba centro 0h : 7min : 0sec Hora de Costa Rica
+--------------------
